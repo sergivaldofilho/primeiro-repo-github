@@ -12,3 +12,9 @@
 4. Inicie o servidor `npm start`
 
 Alteração via PR
+
+## Instruções de deploy v2
+
+1. Executar script `deploy-v2.sh`
+2. Verificar logs em `/bar/log/deploy.log`
+3. Validar endpoints de saúde
