@@ -1,4 +1,7 @@
 # Configurações de Emergencia
 emergency_mode: true
 max_retries: 5
-tieout: 30
+timeout: 30
+port: 3000
+host: localhost
+health_check: /health
