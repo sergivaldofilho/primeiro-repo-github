@@ -25,4 +25,4 @@ Alteração via PR
 1. Executar script `deploy-v2.sh`
 2. Verificar logs em `/bar/log/deploy.log`
 3. Validar endpoints de saúde
-
+4. Health check: /health
