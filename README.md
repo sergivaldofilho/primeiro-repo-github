@@ -26,10 +26,3 @@ Alteração via PR
 2. Verificar logs em `/bar/log/deploy.log`
 3. Validar endpoints de saúde
 4. Health check: /health
-
-## Sistema de monitoramento v2.0
-
-- Dashboard de métricas em tempo real
-- Alertas automatizados em tempo real
-- Logs centralizados
-- Health checks automáticos
