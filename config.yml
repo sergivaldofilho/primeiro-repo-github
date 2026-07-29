@@ -1,0 +1,4 @@
+# Configurações de Emergencia
+emergency_mode: true
+max_retries: 5
+tieout: 30
