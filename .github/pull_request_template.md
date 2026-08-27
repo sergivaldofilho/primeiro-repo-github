@@ -1,3 +1,4 @@
+```markdown
 ## 📝 Descrição
 <!-- Descreva o que foi alterado e por quê -->
 
@@ -21,3 +22,4 @@
 
 ## 🔗 Issues Relacionadas
 Closes #
+```
